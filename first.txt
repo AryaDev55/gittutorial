@@ -1,2 +1,0 @@
-1.Initialized gittrial as git directory
-2.Created first.txt
