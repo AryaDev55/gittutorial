@@ -2,3 +2,5 @@ modified local2....
 check git push origin
 ----------successful-------------pushed to same branch
 check git push now
+
+pull local2 from master
