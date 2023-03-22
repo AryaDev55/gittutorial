@@ -6,3 +6,5 @@ check git push now
 pull local2 from master
 
 pull origin only what happens
+
+on local2
